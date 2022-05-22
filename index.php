@@ -4,6 +4,10 @@
 	<title>Page Demarrage</title>
 	<meta charset="utf-8">
 	<style type="text/css">
+		body{
+			background-color: #A9EAFE;
+			color:green;
+		}
 		h1{
 			position: absolute;
 			top:40%;
